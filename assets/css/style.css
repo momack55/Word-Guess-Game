@@ -1,0 +1,76 @@
+body {
+    background-image: url("../images/grassbackground.jpg");
+    width: 100%;
+}
+
+h1 {
+    font-size: 43px;
+    border: solid 5px blueviolet;
+    border-style: ridge;
+    background: #eeee;
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right:10%;
+    padding: 15px;
+    font-family: 'Faster One', cursive;
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    padding-top: 10px;
+
+}
+
+h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+
+
+
+}
+
+
+.sidebar {
+    padding: 5px;
+    position: relative;
+    border-top: solid blueviolet 2px;
+    border-bottom: solid blueviolet 2px;
+    border-style: ridge;
+    margin-bottom: 5px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 12px;
+}
+
+span {
+    border: solid blueviolet 2px;
+    border-style: ridge;
+    padding-left: 3px;
+    padding-right:3px;
+    background-color: rgb(238, 200, 243); 
+    font-size: 15px;
+}
+
+.container {
+    background-color:#eeee;
+    margin-top: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 5px;
+    text-align: center;
+    border: solid 3px blueviolet;
+    border-style: ridge;
+
+}
+
+#currentword {
+    font-size: 30px;
+    font-family: 'Press Start 2P', cursive;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#scoreboard {
+    padding: 20px;
+}
