@@ -28,7 +28,7 @@ function Game() {
     console.log(blanks)
     console.log(correct)
 }
-//to start game over
+//function to start game over
 function reset() {
     remainingGuesses = 9;
     wrongGuess = [];

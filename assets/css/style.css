@@ -25,9 +25,7 @@ h2 {
 
 h3 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 20px;
-
-
+    font-size: 25px;
 
 }
 
@@ -40,16 +38,13 @@ h3 {
     border-style: ridge;
     margin-bottom: 5px;
     font-family: 'Press Start 2P', cursive;
-    font-size: 12px;
+    font-size: 25px;
 }
 
 span {
-    border: solid blueviolet 2px;
-    border-style: ridge;
     padding-left: 3px;
     padding-right:3px;
-    background-color: rgb(238, 200, 243); 
-    font-size: 15px;
+    font-size: 25px;
 }
 
 .container {
